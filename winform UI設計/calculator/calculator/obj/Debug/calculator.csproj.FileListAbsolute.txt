@@ -1,0 +1,11 @@
+D:\大學\資訊營\winform UI設計\calculator\calculator\bin\Debug\calculator.exe.config
+D:\大學\資訊營\winform UI設計\calculator\calculator\bin\Debug\calculator.exe
+D:\大學\資訊營\winform UI設計\calculator\calculator\bin\Debug\calculator.pdb
+D:\大學\資訊營\winform UI設計\calculator\calculator\obj\Debug\calculator.csproj.AssemblyReference.cache
+D:\大學\資訊營\winform UI設計\calculator\calculator\obj\Debug\calculator.Form1.resources
+D:\大學\資訊營\winform UI設計\calculator\calculator\obj\Debug\calculator.Properties.Resources.resources
+D:\大學\資訊營\winform UI設計\calculator\calculator\obj\Debug\calculator.csproj.GenerateResource.cache
+D:\大學\資訊營\winform UI設計\calculator\calculator\obj\Debug\calculator.csproj.CoreCompileInputs.cache
+D:\大學\資訊營\winform UI設計\calculator\calculator\obj\Debug\calculator.exe
+D:\大學\資訊營\winform UI設計\calculator\calculator\obj\Debug\calculator.pdb
+D:\大學\資訊營\winform UI設計\calculator\calculator\obj\Debug\calculator.Form2.resources
