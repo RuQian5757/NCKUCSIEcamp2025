@@ -6,7 +6,7 @@ len(容器) 回傳容器的長度
 ＊設定 key & value
     dict[key] = value
 
-＊依鍵取值 O(1)
+＊依鍵取值
     print(dict.get(key)) #若沒有該key，回傳 None
     print(dict[key]) #若沒有該key，報錯
 

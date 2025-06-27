@@ -1,4 +1,4 @@
-alist = [1,5,4,8,9,8,10]
+alist = [1, 5, 4, 8, 9, 8, 10]
 
 print("len(alist):", len(alist))
 

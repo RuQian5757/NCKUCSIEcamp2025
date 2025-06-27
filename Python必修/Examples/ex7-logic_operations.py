@@ -23,10 +23,10 @@ print("----------我是分割線----------")
 
 deadline = 1
 
-if deadline >= 24*7 :
+if deadline >= 24*7:
     print("Play LOL")
-elif (deadline < 24*7 and deadline > 24) :
+elif (deadline < 24*7 and deadline > 24):
     print("Chill ...")
-else :
+else:
     print("copy paste")
 

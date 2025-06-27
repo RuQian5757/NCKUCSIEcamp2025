@@ -16,7 +16,7 @@ def delete_product():
 def show_product():
     pass
 
-def get_total_price(product, price):
+def get_total_price(product, quantity):
     pass
 
 shopping_dict = {}
