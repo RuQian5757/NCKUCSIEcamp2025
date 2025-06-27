@@ -7,11 +7,13 @@ intents = discord.Intents.default()
 client = discord.Client(intents=intents)
 tree = app_commands.CommandTree(client)
 
+GUILD_ID = 000000000000000000000
+
 # 當機器人準備好時觸發
 @client.event
 async def on_ready():
     print(f'Bot connected: {client.user.name}')
-    await tree.sync()  # 同步 Slash command
+    await tree.sync(guild=GUILD_ID)  # 同步 Slash command
 
 # 範例 Slash command: /hello
 @tree.command(name="hello", description="回應一個問候訊息")
