@@ -3,7 +3,7 @@ from discord import app_commands
 import asyncio
 
 # 設定 intents
-intents = discord.Intents.default()
+intents = discord.Intents.all()
 client = discord.Client(intents=intents)
 tree = app_commands.CommandTree(client)
 
