@@ -17,6 +17,7 @@ namespace calculator
             InitializeComponent();
         }
 
+        bool isResult = true;
         double prevNumber = 0;
         string prevOperator = "=";
         const int digit = 5;
@@ -31,7 +32,14 @@ namespace calculator
         {   
             Button clickedBtn = (Button)sender;
 
-            if(clickedBtn.Text == ".")
+            if (isResult)
+            {
+                label1.Text = (clickedBtn.Text == ".") ? "0." : clickedBtn.Text;
+                isResult = false;
+                return;
+            }
+
+            if (clickedBtn.Text == ".")
             {
                 label1.Text += clickedBtn.Text;
                 return;
@@ -79,6 +87,11 @@ namespace calculator
             {
                 curNumber = Math.Round(curNumber, digit, MidpointRounding.AwayFromZero);
                 label1.Text = curNumber.ToString();
+                isResult = true;
+            }
+            else
+            {
+                isResult = false;
             }
             prevOperator = clickedButton.Text;
         }
@@ -88,11 +101,19 @@ namespace calculator
             label1.Text = "0";
             prevNumber = 0;
             prevOperator = "=";
+            isResult = true;
         }
 
         private void button18_Click(object sender, EventArgs e)
         {
-            label1.Text = label1.Text.Substring(0, label1.Text.Length - 1);
+            if (label1.Text.Length > 1)
+            {
+                label1.Text = label1.Text.Substring(0, label1.Text.Length - 1);
+            }
+            else
+            {
+                label1.Text = "0";
+            }
         }
 
         private void button19_Click(object sender, EventArgs e)

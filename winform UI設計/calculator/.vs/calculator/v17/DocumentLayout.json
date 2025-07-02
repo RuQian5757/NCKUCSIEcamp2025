@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "D:\\\u5927\u5B78\\\u8CC7\u8A0A\u71DF\\NCKUCSIEcamp2025\\winform UI\u8A2D\u8A08\\calculator\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{937D5EBD-AF25-44A6-8D97-353E0E478A67}|calculator\\calculator.csproj|D:\\\u5927\u5B78\\\u8CC7\u8A0A\u71DF\\NCKUCSIEcamp2025\\winform UI\u8A2D\u8A08\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{937D5EBD-AF25-44A6-8D97-353E0E478A67}|calculator\\calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{937D5EBD-AF25-44A6-8D97-353E0E478A67}|calculator\\calculator.csproj|D:\\\u5927\u5B78\\\u8CC7\u8A0A\u71DF\\NCKUCSIEcamp2025\\winform UI\u8A2D\u8A08\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{937D5EBD-AF25-44A6-8D97-353E0E478A67}|calculator\\calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{937D5EBD-AF25-44A6-8D97-353E0E478A67}|calculator\\calculator.csproj|d:\\\u5927\u5B78\\\u8CC7\u8A0A\u71DF\\nckucsiecamp2025\\winform ui\u8A2D\u8A08\\calculator\\calculator\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{937D5EBD-AF25-44A6-8D97-353E0E478A67}|calculator\\calculator.csproj|solutionrelative:calculator\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+      "AbsoluteMoniker": "D:0:0:{937D5EBD-AF25-44A6-8D97-353E0E478A67}|calculator\\calculator.csproj|d:\\\u5927\u5B78\\\u8CC7\u8A0A\u71DF\\nckucsiecamp2025\\winform ui\u8A2D\u8A08\\calculator\\calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{937D5EBD-AF25-44A6-8D97-353E0E478A67}|calculator\\calculator.csproj|solutionrelative:calculator\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
       "AbsoluteMoniker": "D:0:0:{937D5EBD-AF25-44A6-8D97-353E0E478A67}|calculator\\calculator.csproj|D:\\\u5927\u5B78\\\u8CC7\u8A0A\u71DF\\NCKUCSIEcamp2025\\winform UI\u8A2D\u8A08\\calculator\\calculator\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{937D5EBD-AF25-44A6-8D97-353E0E478A67}|calculator\\calculator.csproj|solutionrelative:calculator\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{937D5EBD-AF25-44A6-8D97-353E0E478A67}|calculator\\calculator.csproj|D:\\\u5927\u5B78\\\u8CC7\u8A0A\u71DF\\NCKUCSIEcamp2025\\winform UI\u8A2D\u8A08\\calculator\\calculator\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{937D5EBD-AF25-44A6-8D97-353E0E478A67}|calculator\\calculator.csproj|solutionrelative:calculator\\form2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 212,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -38,7 +38,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 2,
               "Title": "Form2.cs",
               "DocumentMoniker": "D:\\\u5927\u5B78\\\u8CC7\u8A0A\u71DF\\NCKUCSIEcamp2025\\winform UI\u8A2D\u8A08\\calculator\\calculator\\Form2.cs",
               "RelativeDocumentMoniker": "calculator\\Form2.cs",
@@ -51,7 +51,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Form2.cs [\u8A2D\u8A08]",
               "DocumentMoniker": "D:\\\u5927\u5B78\\\u8CC7\u8A0A\u71DF\\NCKUCSIEcamp2025\\winform UI\u8A2D\u8A08\\calculator\\calculator\\Form2.cs",
               "RelativeDocumentMoniker": "calculator\\Form2.cs",
@@ -63,7 +63,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "Form1.cs [\u8A2D\u8A08]",
               "DocumentMoniker": "D:\\\u5927\u5B78\\\u8CC7\u8A0A\u71DF\\NCKUCSIEcamp2025\\winform UI\u8A2D\u8A08\\calculator\\calculator\\Form1.cs",
               "RelativeDocumentMoniker": "calculator\\Form1.cs",
@@ -75,13 +75,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "Form1.cs",
               "DocumentMoniker": "D:\\\u5927\u5B78\\\u8CC7\u8A0A\u71DF\\NCKUCSIEcamp2025\\winform UI\u8A2D\u8A08\\calculator\\calculator\\Form1.cs",
               "RelativeDocumentMoniker": "calculator\\Form1.cs",
               "ToolTip": "D:\\\u5927\u5B78\\\u8CC7\u8A0A\u71DF\\NCKUCSIEcamp2025\\winform UI\u8A2D\u8A08\\calculator\\calculator\\Form1.cs",
               "RelativeToolTip": "calculator\\Form1.cs",
-              "ViewState": "AgIAABcAAAAAAAAAAAAAwGQAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAADwvxUAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-23T06:30:15.764Z",
               "EditorCaption": ""
