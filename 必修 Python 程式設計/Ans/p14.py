@@ -86,4 +86,3 @@ while True:
         else:
             for name, price in product_dict.items():
                 print(f"名稱: {name} / 價格: {price}")
-
